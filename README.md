@@ -1,1 +1,1 @@
-# Course_materials - This is my Course materials folder
+# This is my Course materials folder
